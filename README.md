@@ -21,5 +21,7 @@ venv\Scripts\activate.bat
 python3 -m venv venv
 pip3 install -r requirements.txt
 streamlit run \main.py
-
 ```
+
+# 執行結果
+[DEMO.gif](看起來長的像這樣}
