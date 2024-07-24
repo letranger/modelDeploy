@@ -24,4 +24,4 @@ streamlit run \main.py
 ```
 
 # 執行結果
-[DEMO.gif](看起來長的像這樣}
+![DEMO.gif]
