@@ -21,7 +21,7 @@ def build_model():
     return model
 
 # 創建並加載權重
-model = tf.keras.models.load_model('/Users/letranger/Downloads/fm_model.h5')
+model = tf.keras.models.load_model('./fm_model.h5')
 model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 
 # 定義圖像預處理和預測函數
